@@ -1,0 +1,4 @@
+1. Only watch simplilearn videos.
+2. For every video make notes + code run.
+3. Dont move to next video until notes are created.
+4. Dont learn data structures.
