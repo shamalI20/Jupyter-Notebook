@@ -3,8 +3,22 @@
 3. Dont move to next video until notes are created.
 4. Dont learn data structures.
 
+Target = 1 week 27th July (All python videos + Notes)
+
 C:\Users\HP\Documents\GitHub\Jupyter-Notebook
 
 Note Taking
 1. Python Code Notes - Jupyter notebook.
 2. Non python - what is software, life cycle 
+
+
+===> Padhi to hu par samjhana nhi ata hai <===
+
+
+How to watch Simplilearn videos
+Every video
+   1. 1 time - Only watch like movie.
+   2. 2 time - Understand "word by word". Not clear then search. No restrictions - google or youtube or anything.
+   3. Understand each work and concept
+   4. Take notes of understanding in your own words.
+   5. Forget. Then Next video.
