@@ -4,3 +4,7 @@
 4. Dont learn data structures.
 
 C:\Users\HP\Documents\GitHub\Jupyter-Notebook
+
+Note Taking
+1. Python Code Notes - Jupyter notebook.
+2. Non python - what is software, life cycle 
