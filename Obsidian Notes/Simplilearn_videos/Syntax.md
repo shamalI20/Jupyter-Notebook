@@ -9,4 +9,6 @@ Types of programing language
 	1. Variable - int number;  Sting Name; 
 	2. Control structure - 
 		![[if2.png]]	
-	
+	3. Data Structure
+	4. Syntax
+	5. Tools
