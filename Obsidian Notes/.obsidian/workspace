@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Simplilearn_videos/2.4 Models of Programing.md",
+            "file": "Simplilearn_videos/2.14 Comments and whitespace.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplilearn_videos/2.4 Models of Programing.md",
+                "file": "Simplilearn_videos/2.14 Comments and whitespace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   "active": "e4d0711c6bda48ae",
   "lastOpenFiles": [
     "Simplilearn_videos/Untitled.md",
+    "Simplilearn_videos/Syntax.md",
     "What is structure programming.md",
     "What is a Software.md",
     "Untitled.md",
@@ -96,7 +97,6 @@
     "Syntax.png",
     "Pending.md",
     "DATA Structure.md",
-    "Simplilearn_videos/Syntax.md",
     "Simplilearn_videos/2.5- What is Object oriented Programing.md"
   ]
 }
