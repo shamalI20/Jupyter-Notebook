@@ -1,8 +1,4 @@
-            
 
-* A Software is a instruction written for the computer to understand, interpret and execute.
-
-* Software programs written in a computer language in a structured and organized manner.
 
 * Distribution of Software
 	1. Open source

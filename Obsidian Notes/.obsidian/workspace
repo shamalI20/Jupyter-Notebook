@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Simplilearn_videos/Syntax.md",
+            "file": "Simplilearn_videos/2.4 Models of Programing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplilearn_videos/Syntax.md",
+                "file": "Simplilearn_videos/2.4 Models of Programing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e4d0711c6bda48ae",
   "lastOpenFiles": [
-    "Simplilearn_videos/Syntax.md",
-    "Syntax.png",
     "Simplilearn_videos/Untitled.md",
-    "Simplilearn_videos/2.5- What is Object oriented Programing.md",
-    "What is a Software.md",
-    "What is a framework.md",
-    "Untitled.md",
     "What is structure programming.md",
-    "Data Structure/What is structure programming.md",
-    "remove extension search.md"
+    "What is a Software.md",
+    "Untitled.md",
+    "Syntax 1.png",
+    "Syntax.png",
+    "Pending.md",
+    "DATA Structure.md",
+    "Simplilearn_videos/Syntax.md",
+    "Simplilearn_videos/2.5- What is Object oriented Programing.md"
   ]
 }
