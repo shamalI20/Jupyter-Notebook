@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8caed9336833cf90",
+        "id": "e4d0711c6bda48ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is structure programming.md",
+            "file": "Simplilearn_videos/Syntax.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is structure programming.md",
+                "file": "Simplilearn_videos/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8caed9336833cf90",
+  "active": "e4d0711c6bda48ae",
   "lastOpenFiles": [
-    "What is structure programming.md",
+    "Simplilearn_videos/Syntax.md",
+    "Syntax.png",
+    "Simplilearn_videos/Untitled.md",
+    "Simplilearn_videos/2.5- What is Object oriented Programing.md",
     "What is a Software.md",
-    "Data Structure/What is structure programming.md",
-    "remove extension search.md",
-    "Pending.md",
     "What is a framework.md",
-    "Pasted image 20210618063113.png",
-    "Data Structure/Untitled.md",
     "Untitled.md",
-    "Data Structure/DATA Structure.md"
+    "What is structure programming.md",
+    "Data Structure/What is structure programming.md",
+    "remove extension search.md"
   ]
 }
