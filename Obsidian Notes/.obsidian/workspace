@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Simplilearn_videos/2.14 Comments and whitespace.md",
+            "file": "Simplilearn_videos/2.16 - Data Types and variables.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplilearn_videos/2.14 Comments and whitespace.md",
+                "file": "Simplilearn_videos/2.16 - Data Types and variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e4d0711c6bda48ae",
   "lastOpenFiles": [
+    "Simplilearn_videos/2.6 - Data Types and variables.md",
+    "Simplilearn_videos/2.5- What is Object oriented Programing.md",
+    "Simplilearn_videos/2.6 Program Sructure.md",
+    "Simplilearn_videos/2.7 Syntax.md",
     "Simplilearn_videos/Untitled.md",
+    "Simplilearn_videos/2.14 Comments and whitespace.md",
+    "Simplilearn_videos/2.3 categories of sofware.md",
     "Simplilearn_videos/Syntax.md",
     "What is structure programming.md",
-    "What is a Software.md",
-    "Untitled.md",
-    "Syntax 1.png",
-    "Syntax.png",
-    "Pending.md",
-    "DATA Structure.md",
-    "Simplilearn_videos/2.5- What is Object oriented Programing.md"
+    "What is a Software.md"
   ]
 }
