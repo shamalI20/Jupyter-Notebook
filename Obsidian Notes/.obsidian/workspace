@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d0711c6bda48ae",
+        "id": "14c28f06824b2844",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4d0711c6bda48ae",
+  "active": "14c28f06824b2844",
   "lastOpenFiles": [
-    "Simplilearn_videos/2.6 - Data Types and variables.md",
-    "Simplilearn_videos/2.5- What is Object oriented Programing.md",
+    "Simplilearn_videos/2.16 - Data Types and variables.md",
     "Simplilearn_videos/2.6 Program Sructure.md",
+    "Simplilearn_videos/2.5- What is Object oriented Programing.md",
+    "Simplilearn_videos/2.4 Models of Programing.md",
+    "Simplilearn_videos/2.3 categories of sofware.md",
+    "Simplilearn_videos/2.6 - Data Types and variables.md",
     "Simplilearn_videos/2.7 Syntax.md",
     "Simplilearn_videos/Untitled.md",
     "Simplilearn_videos/2.14 Comments and whitespace.md",
-    "Simplilearn_videos/2.3 categories of sofware.md",
-    "Simplilearn_videos/Syntax.md",
-    "What is structure programming.md",
-    "What is a Software.md"
+    "Simplilearn_videos/Syntax.md"
   ]
 }
