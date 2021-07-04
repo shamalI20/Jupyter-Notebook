@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "14c28f06824b2844",
+        "id": "8fe73ba1fd3a8af1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Simplilearn_videos/2.16 - Data Types and variables.md",
-            "mode": "source"
+            "file": "C++ Code Debugging - VS Code.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplilearn_videos/2.16 - Data Types and variables.md",
+                "file": "C++ Code Debugging - VS Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14c28f06824b2844",
+  "active": "8fe73ba1fd3a8af1",
   "lastOpenFiles": [
+    "C++ Code Debugging - codeblocks.md",
+    "0 Index of programming.md",
+    "Untitled.md",
+    "How to sove a problem.md",
+    "Python Syntax.md",
+    "How to sove a que.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Simplilearn_videos/2.16 - Data Types and variables.md",
-    "Simplilearn_videos/2.6 Program Sructure.md",
-    "Simplilearn_videos/2.5- What is Object oriented Programing.md",
-    "Simplilearn_videos/2.4 Models of Programing.md",
-    "Simplilearn_videos/2.3 categories of sofware.md",
-    "Simplilearn_videos/2.6 - Data Types and variables.md",
-    "Simplilearn_videos/2.7 Syntax.md",
-    "Simplilearn_videos/Untitled.md",
-    "Simplilearn_videos/2.14 Comments and whitespace.md",
-    "Simplilearn_videos/Syntax.md"
+    "Simplilearn_videos/2.6 Program Sructure.md"
   ]
 }
