@@ -73,7 +73,7 @@ using namespace std;
 
 int main() {
 	int n;
-	
+	cout << "Enter a number: ";
 	cin >> n;
 	if ( 1 < n ){
 	  cout << "The number is greter than 1";
@@ -87,5 +87,9 @@ int main() {
 
 #### Code in python
 ```python
-
+n = (int(input("Enter annumber: ")))  
+if n > 10:  
+     print("The number is greter than 10")  
+else:  
+     print("The numebr is less than 10")
 ```

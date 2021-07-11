@@ -18,19 +18,51 @@ ____
 #### Version 1 :
 ##### Part 1
 - Step 1 : Take 1 no. as input <- 10
-- Step 2 :  Meke table 3 & 5 
-- Step 3 : Value 1 = table 3 < 10 -> 3,6,9
-- Step 4 : Value 2 = table 5 < 10 -> 5
-- Step 5 : sum= Value 1 and Value 2 ->23
+- Step 2 : Divinde iteration i++ (10)
+- Step 3 : i%3== 0 or i%5 == 0
+- Step 4 : i =3 5 6 9
+- Step 5 : num= num +i
+- Step 6 : print num (i ki values add)
 - Step 6 : Print Output -> 23
 
 ###### Part 2
 code in c++
 
 ```c
+#include <iostream>
+
+using namespace std;
+
+ int main() {
+
+ int num,a;
+
+ cout <<"Enter a number: ";
+
+ cin>>a;
+
+ for(int i=3; i<a; i++)
+
+  if(i%3 == 0 || i%5 == 0){
+  cout << i <<" ";
+  num = num +i;
+ }
+
+ cout <<"\nThe sum is " << num; 
+
+return 0;
+
+}
 
 ```
 
 
 ### Step 3 : Python Code
-
+```python
+sum = (int(input("Enter a number: ")))  
+sum=0  
+for i in range(10):  
+    if i % 3 == 0 or i % 5 == 0:  
+        sum = sum + i  
+print(sum)
+```
