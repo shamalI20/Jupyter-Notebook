@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "23598ced71803905",
+        "id": "b37641dc61c2470d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to sove a Project..md",
-            "mode": "preview"
+            "file": "main projects/Recursion.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289
   },
   "right": {
     "id": "444bea91b897b996",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to sove a Project..md",
+                "file": "main projects/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23598ced71803905",
+  "active": "b37641dc61c2470d",
   "lastOpenFiles": [
-    "How to sove a Project..md",
+    "main projects/Recursion.md",
+    "main projects/Untitled.md",
+    "Have to complete till Next week.md",
     "0 Index of programming.md",
+    "main projects/Main-1 with function.md",
+    "main projects/main-1.md",
+    "main projects/How to sove a Project..md",
+    "main projects/main project 2.md",
     "Python Syntax.md",
-    "Pending.md",
-    "C++ Code Debugging - VS Code.md",
-    "example.md",
-    "How to sove a problem.md",
-    "if2.png",
-    "remove extension search.md",
-    "How to read a book.md"
+    "Untitled 1.md"
   ]
 }

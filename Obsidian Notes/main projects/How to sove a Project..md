@@ -22,7 +22,6 @@ ____
 - Step 3 : i%3== 0 or i%5 == 0
 - Step 4 : i =3 5 6 9
 - Step 5 : num= num +i
-- Step 6 : print num (i ki values add)
 - Step 6 : Print Output -> 23
 
 ###### Part 2
