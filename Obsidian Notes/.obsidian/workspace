@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Simplilearn_videos/Main chapters/Chapter 2 Agile Scrum Foundataion.md",
-            "mode": "source"
+            "file": "Have to complete till Next week.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplilearn_videos/Main chapters/Chapter 2 Agile Scrum Foundataion.md",
+                "file": "Have to complete till Next week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "bd8cc1af994bbaa4",
   "lastOpenFiles": [
+    "Have to complete till Next week.md",
+    "0 Index of programming.md",
     "Simplilearn_videos/Main chapters/Chapter 2 Agile Scrum Foundataion.md",
     "what is  Software.md",
     "remove extension search.md",
@@ -95,8 +97,6 @@
     "Pending.md",
     "How to read a book.md",
     "How to find a meaning.md",
-    "Have to complete till Next week.md",
-    "DATA Structure.md",
-    "C++ Code Debugging - VS Code.md"
+    "DATA Structure.md"
   ]
 }
